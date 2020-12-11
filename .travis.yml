@@ -1,4 +1,7 @@
 version: ~> 1.0
+arch:
+ - amd64
+ - ppc64le
 language: node_js
 os:
  - linux
